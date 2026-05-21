@@ -10175,10 +10175,11 @@
       "slug": "story",
       "description": "Explore emotional novels, timeless classics, and character-driven stories that are perfect for relaxed reading.",
       "short_description": "Novels, classics, and emotional reads.",
-      "image_url": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+      "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1200&q=80",
       "icon": "📖",
       "total_books": 15,
-      "featured": true
+      "featured": true,
+      "theme_color": "#8B5E3C"
     },
     {
       "id": "cat-002",
@@ -10186,10 +10187,11 @@
       "slug": "tech",
       "description": "Learn programming, software engineering, system design, web development, databases, and modern digital skills.",
       "short_description": "Programming, AI, UX, and system design.",
-      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
       "icon": "💻",
       "total_books": 15,
-      "featured": true
+      "featured": true,
+      "theme_color": "#2563EB"
     },
     {
       "id": "cat-003",
@@ -10200,7 +10202,8 @@
       "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=80",
       "icon": "🔬",
       "total_books": 15,
-      "featured": true
+      "featured": true,
+      "theme_color": "#0F766E"
     },
     {
       "id": "cat-004",
@@ -10208,10 +10211,11 @@
       "slug": "fantasy",
       "description": "Enter magical worlds filled with quests, mythical creatures, powerful kingdoms, heroes, and unforgettable adventures.",
       "short_description": "Magic, kingdoms, quests, and adventure.",
-      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?auto=format&fit=crop&w=1200&q=80",
+      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
       "icon": "🧙",
       "total_books": 15,
-      "featured": false
+      "featured": false,
+      "theme_color": "#7C3AED"
     },
     {
       "id": "cat-005",
@@ -10219,10 +10223,11 @@
       "slug": "mystery",
       "description": "Browse suspenseful stories with secrets, clues, investigations, psychological twists, and page-turning tension.",
       "short_description": "Clues, suspense, crime, and twists.",
-      "image_url": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?auto=format&fit=crop&w=1200&q=80",
+      "image_url": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
       "icon": "🕵️",
       "total_books": 15,
-      "featured": false
+      "featured": false,
+      "theme_color": "#334155"
     },
     {
       "id": "cat-006",
@@ -10233,7 +10238,8 @@
       "image_url": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?auto=format&fit=crop&w=1200&q=80",
       "icon": "🏛️",
       "total_books": 15,
-      "featured": false
+      "featured": false,
+      "theme_color": "#92400E"
     },
     {
       "id": "cat-007",
@@ -10241,10 +10247,11 @@
       "slug": "biography",
       "description": "Read inspiring life stories of leaders, creators, thinkers, athletes, activists, and people who shaped the world.",
       "short_description": "Real lives, journeys, and inspiration.",
-      "image_url": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1200&q=80",
+      "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80",
       "icon": "👤",
       "total_books": 15,
-      "featured": false
+      "featured": false,
+      "theme_color": "#BE123C"
     },
     {
       "id": "cat-008",
@@ -10255,7 +10262,8 @@
       "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80",
       "icon": "📈",
       "total_books": 15,
-      "featured": false
+      "featured": false,
+      "theme_color": "#B45309"
     },
     {
       "id": "cat-009",
@@ -10266,7 +10274,8 @@
       "image_url": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?auto=format&fit=crop&w=1200&q=80",
       "icon": "🌱",
       "total_books": 15,
-      "featured": false
+      "featured": false,
+      "theme_color": "#15803D"
     },
     {
       "id": "cat-010",
@@ -10277,7 +10286,8 @@
       "image_url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
       "icon": "🧘",
       "total_books": 15,
-      "featured": false
+      "featured": false,
+      "theme_color": "#059669"
     }
   ]
 }
