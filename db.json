@@ -10167,5 +10167,117 @@
       "estimated_read_time": "5 hours",
       "related_book_ids": ["144", "148", "149", "139"]
     }
+  ],
+  "categories": [
+    {
+      "id": "cat-001",
+      "name": "Story",
+      "slug": "story",
+      "description": "Explore emotional novels, timeless classics, and character-driven stories that are perfect for relaxed reading.",
+      "short_description": "Novels, classics, and emotional reads.",
+      "image_url": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+      "icon": "📖",
+      "total_books": 15,
+      "featured": true
+    },
+    {
+      "id": "cat-002",
+      "name": "Tech",
+      "slug": "tech",
+      "description": "Learn programming, software engineering, system design, web development, databases, and modern digital skills.",
+      "short_description": "Programming, AI, UX, and system design.",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+      "icon": "💻",
+      "total_books": 15,
+      "featured": true
+    },
+    {
+      "id": "cat-003",
+      "name": "Science",
+      "slug": "science",
+      "description": "Discover books about space, biology, physics, psychology, the environment, and the wonders of the natural world.",
+      "short_description": "Space, biology, physics, and discovery.",
+      "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=80",
+      "icon": "🔬",
+      "total_books": 15,
+      "featured": true
+    },
+    {
+      "id": "cat-004",
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "description": "Enter magical worlds filled with quests, mythical creatures, powerful kingdoms, heroes, and unforgettable adventures.",
+      "short_description": "Magic, kingdoms, quests, and adventure.",
+      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?auto=format&fit=crop&w=1200&q=80",
+      "icon": "🧙",
+      "total_books": 15,
+      "featured": false
+    },
+    {
+      "id": "cat-005",
+      "name": "Mystery",
+      "slug": "mystery",
+      "description": "Browse suspenseful stories with secrets, clues, investigations, psychological twists, and page-turning tension.",
+      "short_description": "Clues, suspense, crime, and twists.",
+      "image_url": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?auto=format&fit=crop&w=1200&q=80",
+      "icon": "🕵️",
+      "total_books": 15,
+      "featured": false
+    },
+    {
+      "id": "cat-006",
+      "name": "History",
+      "slug": "history",
+      "description": "Understand the past through books about civilizations, wars, revolutions, leaders, cultures, and world-changing events.",
+      "short_description": "Civilizations, events, and the past.",
+      "image_url": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?auto=format&fit=crop&w=1200&q=80",
+      "icon": "🏛️",
+      "total_books": 15,
+      "featured": false
+    },
+    {
+      "id": "cat-007",
+      "name": "Biography",
+      "slug": "biography",
+      "description": "Read inspiring life stories of leaders, creators, thinkers, athletes, activists, and people who shaped the world.",
+      "short_description": "Real lives, journeys, and inspiration.",
+      "image_url": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1200&q=80",
+      "icon": "👤",
+      "total_books": 15,
+      "featured": false
+    },
+    {
+      "id": "cat-008",
+      "name": "Business",
+      "slug": "business",
+      "description": "Explore entrepreneurship, leadership, finance, strategy, productivity, startups, and practical career-building ideas.",
+      "short_description": "Startups, money, strategy, and leadership.",
+      "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80",
+      "icon": "📈",
+      "total_books": 15,
+      "featured": false
+    },
+    {
+      "id": "cat-009",
+      "name": "Self-Help",
+      "slug": "self-help",
+      "description": "Improve focus, habits, mindset, confidence, communication, discipline, and everyday personal growth.",
+      "short_description": "Habits, mindset, focus, and growth.",
+      "image_url": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?auto=format&fit=crop&w=1200&q=80",
+      "icon": "🌱",
+      "total_books": 15,
+      "featured": false
+    },
+    {
+      "id": "cat-010",
+      "name": "Health",
+      "slug": "health",
+      "description": "Find useful books about sleep, nutrition, wellness, mental health, longevity, movement, and better daily living.",
+      "short_description": "Wellness, sleep, nutrition, and balance.",
+      "image_url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+      "icon": "🧘",
+      "total_books": 15,
+      "featured": false
+    }
   ]
 }
